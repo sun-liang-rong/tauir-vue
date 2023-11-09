@@ -32,7 +32,7 @@
         "minimize": true,
         "unmaximize": true,
         "unminimize": true,
-        "startDragging": true,
+        "startDragging": true
       },
       "all": false,
       "shell": {
